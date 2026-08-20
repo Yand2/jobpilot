@@ -1,0 +1,7 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.pytest_cache/
+memory/user_profile.local.json
+memory/user_profile.json
